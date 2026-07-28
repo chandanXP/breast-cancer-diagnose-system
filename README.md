@@ -8,7 +8,7 @@ To enhance user experience, the web dashboard requires only the 10 core "Mean" m
 ⚠️ **Important Note:** This repository is specifically structured and configured for **Render Deployment/Hosting**. 
 
 If you are looking for the complete deep learning workflow—including data exploration, scaling, neural network architecture, and model training—please visit the Google Colab Notebook linked below:
-👉 **[Full Source Code & Dataset (Google Colab)](YOUR_COLAB_LINK_HERE)**
+👉 **[Full Source Code & Dataset (Google Colab)](https://colab.research.google.com/drive/1o5cNDeLDWfuDZynvWLdEB6sa_40dLPf6?usp=sharing)**
 
 ## 👨‍💻 Developer
 **Chandan Saroj** | MERN Stack Developer & SDE
@@ -50,4 +50,4 @@ Boom! 💥 Render will build your environment and give you a live URL. Your deep
 
 ## 🌐 Live Demo
 Check out the live, working version of this project hosted on Render:
-👉 **[Breast Cancer Detection System - Live App](YOUR_RENDER_LIVE_LINK_HERE)**
+👉 **[Breast Cancer Detection System - Live App](https://breast-cancer-diagnose-system.onrender.com/)**
